@@ -1,0 +1,14 @@
+/*!grunt_test - 1.0.0-2017-03-14 */div{
+	height: 100px;
+	width: 100px;
+	border:1px solid red;
+}
+
+img{
+	border: 0;
+	vertical-align: middle;
+}
+a{
+	text-decoration: none;
+	color:#ff0000;
+}

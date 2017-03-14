@@ -1,0 +1,22 @@
+{
+	"es5": true,    
+	"node": true,
+	"bitwise": false,
+	"camelcase": false,
+	"curly": false,
+	"eqeqeq": false,
+	"forin": true,
+	"immed": true,
+	"indent": 4,
+	"latedef": true,
+	"newcap": true,
+	"noarg": false,
+	"noempty": false,
+	"nonew": true,
+	"plusplus": false,
+	"undef": true,
+	"trailing": true,
+	"unused": true,
+	"loopfunc": true,
+	"laxcomma": false
+}
